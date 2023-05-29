@@ -76,3 +76,18 @@ Refer to the [View Contact Details](https://github.com/abdulbitcot/fresher-machi
 Refer to the [Search Contact](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen5.png) Screen
 
 - When I write any this thing in the search field it should be search by first name, last name and phone number.
+
+
+## Other Notes
+
+- It is important you follow good programing practices, clean code, good logic with proper comments, naming conventions.
+- Write as many functions you require, you must focus on code reusability and avoid repetition of code.
+
+## Share Your Test
+
+- Create a public git repository on Github
+- Repositry name should be your name-bitcot and push code.
+- Do not include dependency folder like node_module.
+- Once finished kindly submit your Github account repository URL.
+- Do not include any Zip file in Email
+- Read full instruction before submitting the task. 
