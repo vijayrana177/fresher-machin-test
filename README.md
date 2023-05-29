@@ -34,12 +34,19 @@ You can assume that you do not have to support legacy browsers without features 
 
 ### "Contacts View" Screen
 
-For this page you will need to fetch this JSON [sample.json]() feed 
+For this page you will need to fetch this JSON [sample.json]() feed
+
+Refer to the [Contacts View](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen1.png) Screen
 
 - Save the Contact list data into the state
 - Display Contact list
+- On click delete icon it should be remove from contact list and local state.
+
+**Note:** local state means React state.
 
 ### "Add Contact" Screen
+
+Refer to the [Add Contact](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen2.png) Screen
 
 - You have to create a modal for **Add Contact**.
 - Add validation of all the fields.
@@ -49,6 +56,8 @@ For this page you will need to fetch this JSON [sample.json]() feed
 
 ### "Edit Contact" Screen
 
+Refer to the [Edit Contact](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen3.png) Screen
+
 - You have to create a modal for **Edit Contact**.
 - When I click on Edit icon from the contact list then  **Edit** Modal should be open and all the field should be auto fill of contact detail which I selected on Edit icon.
 - Add validation of all the fields.
@@ -57,5 +66,13 @@ For this page you will need to fetch this JSON [sample.json]() feed
 
 ### "View Contact Details" Screen
 
+Refer to the [View Contact Details](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen4.png) Screen
+
 - You have to create a modal for **View Contact Details**.
 - When I click on Eye icon (View icon) from the contact list then  **View Contact Details** Modal should be open and all the data should be shown.
+
+### "Search Contact" Screen
+
+Refer to the [Search Contact](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen5.png) Screen
+
+- When I write any this thing in the search field it should be search by first name, last name and phone number.
