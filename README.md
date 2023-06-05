@@ -16,7 +16,7 @@ Although this is a basic exercise, we'll be looking for **simple, well-designed,
 
 ## Details
 
-Click [here](https://xd.adobe.com/view/693b1c0d-b7fd-4f1c-b15a-389dafffe240-3c68/) to look Screens and Convert into **REACT JS** then Implement.
+Click [here](https://github.com/BitcotDev/fresher-machin-test/tree/main/screens/) to look Screens and Convert into **REACT JS** then Implement.
 
 You will need to build the following 5 screens with React:
 - "Contacts View" screen
