@@ -34,7 +34,7 @@ You can assume that you do not have to support legacy browsers without features 
 
 ### "Contacts View" Screen
 
-For this page you will need to fetch this JSON [sample.json]() feed
+For this page you will need to fetch this JSON [sample.json](https://raw.githubusercontent.com/BitcotDev/fresher-machin-test/main/json/sample.json) feed
 
 Refer to the [Contacts View](https://github.com/abdulbitcot/fresher-machin-test/blob/main/screens/Screen1.png) Screen
 
